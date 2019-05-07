@@ -1,2 +1,2 @@
-# 3110
-CSCE 3110 code repo
+# Data structures
+data structures code repo
