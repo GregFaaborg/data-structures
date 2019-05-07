@@ -1,1 +1,2 @@
-hw4/inputs/* linguist-vendored
+* linguist-vendored
+*.cpp linguist-vendored=false
