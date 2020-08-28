@@ -1,8 +1,8 @@
 /*
 Greg Faaborg
 avl.cpp
-Implementation of an avl tree, which is a bst that does not allow subtrees heights to differe by more than 1.
-If they do you have to rotate the tree to follow this balancing factor
+Implementation of an avl tree, which is a bst that does not allow subtrees heights to differ by more than 1.
+If they do, you have to rotate the tree to follow this balancing factor
 */
 #include <stdio.h>
 #include <iostream>
