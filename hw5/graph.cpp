@@ -24,7 +24,7 @@ stack<int> topSort;
 //used for discovery time 
 stack<int> discov;
 
-//used fot finish time
+//used for finish time
 stack<int> fini;
 //time
 int start=1;
